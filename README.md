@@ -38,7 +38,7 @@ I'm a **B.Tech CSE 2nd year student specializing in AI/ML** with a passion for *
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=self-yash&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="self-yash" /></p>
 
-⭐ Like what you see? Don’t forget to star my repositories to show your support!
+⭐ Like what you see? Feel free to star my repositories!
 
 
 Thanks for stopping by! 😊
