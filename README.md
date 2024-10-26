@@ -23,7 +23,7 @@ I'm a **B.Tech CSE 2nd year student specializing in AI/ML** with a passion for *
 <a href="https://linkedin.com/in/yashhmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashhmehta" height="30" width="40" /></a>
 <a href="https://kaggle.com/y4shhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="y4shhh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yash_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yash_4" height="30" width="40" /></a>
-<a href="https://discord.gg/festerrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="festerrrr" height="30" width="40" /></a>
+<a href="https://discord.com/users/festerrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="festerrrr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
