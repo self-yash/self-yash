@@ -14,7 +14,7 @@ I'm a **B.Tech CSE 2nd year student specializing in AI/ML** with a passion for *
 
 - **HandFlow**: A gesture recognition application that leverages computer vision to interpret hand movements for a variety of use cases, from virtual presentations to device control.
 
-- **GovGuide Chatbot**: Designed an interactive chatbot for the **Ministry of Justice’s website** using **Botpress** to help users easily navigate complex legal documentation.
+- **GovGuide Chatbot**: Created an interactive chatbot for the **Ministry of Justice’s website** as part of my **Smart India Hackathon (SIH)** project using **Botpress** to help users easily navigate complex legal documentation.
 
 
 
