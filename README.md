@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AIML learner from India</h3>
 
 ### 👨‍💻 About Me
-I'm a **B.Tech CSE 2nd year student specializing in AI/ML** with a passion for **UI/UX design** and **AI**. I focus on building user-centric designs that solve real-world problems and make technology more accessible.
+I'm a **B.Tech CSE 3rd year student specializing in AI/ML** with a passion for **UI/UX design** and **AI**. I focus on building user-centric designs that solve real-world problems and make technology more accessible.
 
 - 🌱 Currently learning: **UI/UX concepts**
 - 📫 How to reach me **yashmehta0005@gmail.com**
